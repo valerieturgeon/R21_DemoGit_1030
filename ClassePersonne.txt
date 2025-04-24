@@ -1,2 +1,3 @@
 Propriétés
 Méthodes
+Ajout d'une méthode
